@@ -1,9 +1,9 @@
-export const PHONE_NUMBER = "+919876543210";
-export const WHATSAPP_NUMBER = "919876543210";
+export const PHONE_NUMBER = "+918282887592";
+export const WHATSAPP_NUMBER = "918282887592";
 export const SHOP_NAME = "Sangam Hardware";
-export const SHOP_ADDRESS = "Main Road, Near Bus Stand, Jalandhar, Punjab 144001";
-export const SHOP_HOURS = "Mon–Sat: 8:00 AM – 8:00 PM | Sunday: 9:00 AM – 2:00 PM";
-export const GOOGLE_MAPS_EMBED = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.123!2d75.577!3d31.326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDE5JzMzLjYiTiA3NcKwMzQnMzcuMiJF!5e0!3m2!1sen!2sin!4v1";
+export const SHOP_ADDRESS = "Main Road NH2, Near Health Center more, Andal Gram, West Bengal 713321";
+export const SHOP_HOURS = "Mon–Sat: 8:00 AM – 8:00 PM | Sunday: 9:00 AM – 8:00 PM";
+export const GOOGLE_MAPS_EMBED = "https://maps.google.com/maps?q=23.586003,87.210967&z=17&output=embed";
 export const GOOGLE_MAPS_LINK = "https://maps.app.goo.gl/D4aP73x9VTpLMYZP6";
 
 export function getWhatsAppLink(message: string) {
